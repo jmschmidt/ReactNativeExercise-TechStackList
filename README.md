@@ -2,7 +2,7 @@
 
 This repo contains files for a simple React Native app that displays an accordion list of tech libraries using Redux. 
 
-This was based on the first project lecture from Stephen Grider's Complete React Native and Redux Course Udemy course.
+This was based on a project lecture from Stephen Grider's Complete React Native and Redux Course Udemy course.
 
 ### Prerequisites
 1. Node v6.6 or above
